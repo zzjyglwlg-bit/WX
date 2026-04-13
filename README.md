@@ -45,11 +45,6 @@
 ## 安装步骤
 
 1. **克隆项目**
-   ```bash
-   git clone <repository-url>
-   cd high-school-chinese-practice
-   ```
-
 2. **安装依赖**
    ```bash
    npm install
